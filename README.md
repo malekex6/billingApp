@@ -1,4 +1,4 @@
-# Billing App Demo
+# NL2SQL System
 
 An intelligent ***NL2SQL*** chatbot for querying ***Google BigQuery*** data using Vertex AI. This app converts user natural language prompts into SQL queries to retrieve information from BigQuery datasets and then generates natural, conversational responses based on the retrieved information.
 Designed for intuitive and interactive data exploration, it simplifies access to insights by enabling users to explore data through natural language queries.
