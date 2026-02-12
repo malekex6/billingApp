@@ -3,7 +3,7 @@
 An intelligent ***NL2SQL*** chatbot for querying ***Google BigQuery*** data using Vertex AI. This app converts user natural language prompts into SQL queries to retrieve information from BigQuery datasets and then generates natural, conversational responses based on the retrieved information.
 Designed for intuitive and interactive data exploration, it simplifies access to insights by enabling users to explore data through natural language queries.
 
-****NB***:  In this project, I worked on a customer billing dataset provided by Premier Cloud as a use case, but this application can be adapted to work with any other BigQuery dataset.*
+****NB***:  In this project, I worked on a customer billing dataset provided by a Client (for a Freelance) work as a use case, but this application can be adapted to work with any other BigQuery dataset.*
 
 
 ## Features
